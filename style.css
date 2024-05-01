@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Set body height to full viewport height */
+    margin: 0; /* Remove default margin */
+}
+
+.container {
+    background-color: white;
+    width: 300px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+h1 {
+    color: #333; /* Dark gray */
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #555; /* Gray */
+    font-size: 16px;
+    margin-bottom: 5px;
+}
